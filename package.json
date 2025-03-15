@@ -3,8 +3,8 @@
   "name": "logseq-extension-pro",
   "title": "Logseq Extension Pro",
   "description": "快速添加和查询Logseq中的Todo",
-  "icon": "assets/extension-icon.svg",
-  "author": "james.liu",
+  "icon": "extension-icon.png",
+  "author": "jamesliuguo",
   "categories": [
     "Productivity",
     "Applications"

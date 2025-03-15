@@ -1,6 +1,6 @@
-export type TodoStatus = 'TODO' | 'NOW' | 'WAITING' | 'LATER' | 'DOING' | 'DONE' | 'CANCELED';
-export type Priority = 'A' | 'B' | 'C';
-export type ViewMode = 'list' | 'board';
+export type TodoStatus = "TODO" | "NOW" | "WAITING" | "LATER" | "DOING" | "DONE" | "CANCELED";
+export type Priority = "A" | "B" | "C";
+export type ViewMode = "list" | "board";
 
 export interface Todo {
   content: string;
